@@ -1,0 +1,35 @@
+# Maven build artifacts
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+# IntelliJ IDEA - exclude temporary files but keep project configuration
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/dictionaries/
+.idea/shelf/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+
+# Package files
+*.tar.gz
+*.zip
+
+# Application specific
+application-local.properties
